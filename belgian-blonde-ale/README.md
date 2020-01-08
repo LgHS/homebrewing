@@ -1,4 +1,4 @@
-# Belgian Blonde Ale
+# Belgian Blond Ale
 
 ## Recipe
 See BelgianBlondAle.md or .xml
@@ -12,3 +12,4 @@ Brewing date: 19-12-22
 Conditioning date: 20-01-04
 Best before: surprise, motafuckah
 Alc.: 5.7%
+Qty: 26L (16L beer + 10L mate)
